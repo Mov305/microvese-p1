@@ -1,0 +1,13 @@
+*{
+  margin:0;
+  padding:0;
+  scroll-behavior:smooth;
+}
+
+nav{
+    position:fixed;
+}
+
+section{
+   hight:100vh;
+}
